@@ -5,8 +5,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "n8n": "^1.24.0"
-  },
+  "n8n": "^1.24.0",
+  "sqlite3": "^5.1.7"
+},
   "engines": {
     "node": "20.11.1"
   }

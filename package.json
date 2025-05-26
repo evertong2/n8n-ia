@@ -1,0 +1,13 @@
+{
+  "name": "n8n-render-lite",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "n8n": "^1.24.0"
+  },
+  "engines": {
+    "node": "20.11.1"
+  }
+}
